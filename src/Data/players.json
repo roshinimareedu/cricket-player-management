@@ -1,0 +1,23 @@
+{
+    "players": [
+        {
+            "id":1,
+            "name": "Virat Kohli",
+            "age": 36,
+            "position": "Batter"
+
+        },
+        {
+             "id":2,
+             "name": "AB De Villiers",
+             "age": 41,
+             "position": "Batter"
+        },
+        {
+             "id":3,
+             "name": "Jasprit Bumrah",
+             "age": 31,
+             "position": "Bowler"
+        }
+    ]
+}
