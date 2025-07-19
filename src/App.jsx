@@ -68,7 +68,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Football Team</h1>
+      <h1>Cricket Team</h1>
       {showDeletePlayer ? (
         <DeletePlayer
           player={players.find((player) => player.id === playerToDelete)}
